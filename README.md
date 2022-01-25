@@ -9,6 +9,8 @@
 **Cientista de dados**, em desenvolvimento, focando no processo de análise de dados utilizando o python, bem como utilização do SQL para a coleta dos dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que permiam as atividades de um cientista de dados, com o foco na evolução dos produtos e serviços.
 <br>
 
+Abaixo seguem os tópicos do que eu venho estudando:
+
  #### 💻 Ferramentas e linguagens:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![SQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
