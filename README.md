@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=rafaelpdsantos@gmail.com)](rafaelpdsantos@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/rasantos)](https://www.kaggle.com/rasantos)
 
+**Cientista de dados**, em desenvolvimento, focando no processo de análise de dados utilizando o python, bem como utilização do SQL para a coleta dos dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que permiam as atividades de um cientista de dados, com o foco na evolução dos produtos e serviços.
+
 <!--
 **rafaelpds/rafaelpds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
