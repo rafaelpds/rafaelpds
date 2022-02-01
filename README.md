@@ -26,11 +26,14 @@ Abaixo seguem os tópicos do que eu venho estudando:
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
 
+<!--
  #### ⚙️ Engenharia de dados (Tenho conhecimento básico):
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
  ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+
+--!>
 
 <br>
 
